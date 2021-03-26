@@ -22,10 +22,10 @@ There are two possible ways to submit your project. Your instructor should have 
 
 #### Option B - Pull Request
 
-- [ ] Fork and clone the repository.
-- [ ] Implement your project in a `firstname-lastname` branch.
-- [ ] Create a pull request of `firstname-lastname` against your `main` branch.
-- [ ] Open the assignment in Canvas and submit your pull request.
+- [X] Fork and clone the repository.
+- [X] Implement your project in a `firstname-lastname` branch.
+- [X] Create a pull request of `firstname-lastname` against your `main` branch.
+- [] Open the assignment in Canvas and submit your pull request.
 
 ### Task 2: Minimum Viable Product
 
@@ -33,12 +33,12 @@ There are two possible ways to submit your project. Your instructor should have 
 
 Visit [SQL Try Editor at W3Schools.com](https://www.w3schools.com/Sql/trysql.asp?filename=trysql_select_all) using Chrome and build the queries below. Once they work copy them to the `queries.sql` file at the root of the project.
 
-- Find all customers with postal code 1010. Returns 3 records.
-- Find the phone number for the supplier with the id 11. Should be (010) 9984510.
-- List first 10 orders placed, sorted descending by the order date. The order with date 1997-02-12 should be at the top.
-- Find all customers that live in London, Madrid, or Brazil. Returns 18 records.
-- Add a customer record for _"The Shire"_, the contact name is _"Bilbo Baggins"_ the address is _"1 Hobbit-Hole"_ in _"Bag End"_, postal code _"111"_ and the country is _"Middle Earth"_.
-- Update _Bilbo Baggins_ record so that the postal code changes to _"11122"_.
+X - Find all customers with postal code 1010. Returns 3 records.
+X- Find the phone number for the supplier with the id 11. Should be (010) 9984510.
+X- List first 10 orders placed, sorted descending by the order date. The order with date 1997-02-12 should be at the top.
+X- Find all customers that live in London, Madrid, or Brazil. Returns 18 records.
+X- Add a customer record for _"The Shire"_, the contact name is _"Bilbo Baggins"_ the address is _"1 Hobbit-Hole"_ in _"Bag End"_, postal code _"111"_ and the country is _"Middle Earth"_.
+X- Update _Bilbo Baggins_ record so that the postal code changes to _"11122"_.
 
 **Clicking the `Restore Database` button in the page will repopulate the database with the original data and discard all changes you have made**.
 
